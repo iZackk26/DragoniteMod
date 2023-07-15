@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYY",
+    " ZY",
+    " Z "
+  ],
+  "key": {
+    "Z": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "dragonitemod:dragoniteblade"
+  }
+}

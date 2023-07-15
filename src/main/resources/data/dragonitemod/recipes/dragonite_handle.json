@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZYZ",
+    "ZXZ",
+    "ZYZ"
+  ],
+  "key": {
+    "Z": {
+      "item": "minecraft:stick"
+    },
+    "Y": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "dragonitemod:dragonitehandle"
+  }
+}

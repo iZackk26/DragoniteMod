@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X*X",
+    "$$$",
+    "X#X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:emerald"
+    },
+    "#": {
+      "item": "dragonitemod:dragonitehandle"
+    },
+    "*": {
+      "item": "dragonitemod:dragoniteblade"
+    },
+    "$": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "dragonitemod:dragonitescythe"
+  }
+}
